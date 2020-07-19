@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class JavaExample  
+public class Alternateprimenum  
 { 
    public static int checkPrime(int num) 
    { 
